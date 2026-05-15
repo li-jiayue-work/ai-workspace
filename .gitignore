@@ -28,6 +28,8 @@ node_modules/
 # Workspace
 memory/
 scratch/
+.claude/
+.agents/
 
 # Logs
 *.log
