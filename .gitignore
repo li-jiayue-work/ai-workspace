@@ -30,6 +30,7 @@ memory/
 scratch/
 .claude/
 .agents/
+experiments/
 
 # Logs
 *.log
